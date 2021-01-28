@@ -1,0 +1,89 @@
+.zagalovki {
+    display: inline-block;
+    width: 400px;
+    font-family: Arial;
+    color: rgba(50,50,50,0.85);
+}
+
+.explanation {
+    font-family: Arial;
+    color: rgba(50,50,50,0.85);
+}
+.explanation a{
+    color: rgba(50,50,50,0.85);
+}
+
+.cv_title {
+    margin-top: 115px;
+    width: 100%;
+    /*margin: 100px auto 0;*/
+}
+
+#name_surname {
+    color: #0959ff;
+    font-size: 40px;
+    height: 60px;
+}
+
+#position_title {
+    color: rgba(50,50,50,0.85);
+    font-style: italic;
+    font-size: 25px;
+    margin-top: -25px
+}
+
+header {
+    font-family: "Calibri";
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: #084af6;
+}
+.header_1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.header_words {
+    color: white;
+    margin-top: 25px;
+}
+.section1{
+    margin-top: 25px;
+}
+.section1 ul {
+    list-style: none;
+}
+.section2{
+    margin-top: 25px;
+}
+.section2 ul {
+    margin-top: 25px;
+    list-style: none;
+}
+.section3{
+    margin-top: 25px;
+}
+.section4{
+    margin-top: 25px;
+}
+.section5{
+    margin-top: 25px;
+}
+.section6{
+    margin-top: 25px;
+    color: white;
+}
+
+
+/*<div class="section2">*/
+/*<h2 class="zagalovki" > Work Experience</h2>*/
+/*<span class="explanation">02.2019 – 02.2020   Operation Officer, MNA Transport and Service AB, Stockholm, Sweden   </span>*/
+/*<br><span class="explanation">09.2016 – 10.2018    EU Project implemented by the CTC “Strengthening capacities of local communities in their actions towards poverty reduction”, Project Assistant and Procurement Officer, Bishkek and Osh, Kyrgyzstan</span>*/
+/*<br><span class="explanation">10.2014 – 06.2016    Private entrepreneurship in provision of labor for amusement parks, Dubai, UAE </span>*/
+/*<br><span class="explanation">08.2012 – 07.2014    Procurement and Logistic Officer, DiA.KG, Bishkek, Kyrgyzstan </span>*/
+/*</div>*/
