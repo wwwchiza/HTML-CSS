@@ -1,3 +1,4 @@
+
 .zagalovki {
     display: inline-block;
     width: 400px;
@@ -52,11 +53,20 @@ header {
     color: white;
     margin-top: 25px;
 }
+.header_words a:hover{
+    color: dodgerblue;
+}
 .section1{
     margin-top: 15px;
 }
 .section1 ul {
     list-style: none;
+}
+.section1 a:hover{
+    color: #0959ff;
+}
+.section1 a{
+    text-decoration: none;
 }
 .section2{
     margin-top: 15px;

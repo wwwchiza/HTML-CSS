@@ -1,0 +1,36 @@
+
+
+.conteiner{
+    background-color: gray;
+    margin: 50px;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+
+}
+#one{
+    width: 110px;
+    height: 110px;
+    background-color: green;
+    align-self: flex-end;
+
+    }
+#two{
+    width: 110px;
+    height: 110px;
+    background-color: red;
+    align-self: center;
+}
+#tree{
+    width: 110px;
+    height: 110px;
+    background-color: dodgerblue;
+}
+#four{
+    width: 110px;
+    height: 110px;
+    background-color: orange;
+}
