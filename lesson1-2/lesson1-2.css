@@ -53,9 +53,7 @@ header {
     color: white;
     margin-top: 25px;
 }
-.header_words a:hover{
-    color: dodgerblue;
-}
+
 .section1{
     margin-top: 15px;
 }
@@ -87,12 +85,3 @@ header {
     margin-top: 15px;
     color: white;
 }
-
-
-/*<div class="section2">*/
-/*<h2 class="zagalovki" > Work Experience</h2>*/
-/*<span class="explanation">02.2019 – 02.2020   Operation Officer, MNA Transport and Service AB, Stockholm, Sweden   </span>*/
-/*<br><span class="explanation">09.2016 – 10.2018    EU Project implemented by the CTC “Strengthening capacities of local communities in their actions towards poverty reduction”, Project Assistant and Procurement Officer, Bishkek and Osh, Kyrgyzstan</span>*/
-/*<br><span class="explanation">10.2014 – 06.2016    Private entrepreneurship in provision of labor for amusement parks, Dubai, UAE </span>*/
-/*<br><span class="explanation">08.2012 – 07.2014    Procurement and Logistic Officer, DiA.KG, Bishkek, Kyrgyzstan </span>*/
-/*</div>*/
